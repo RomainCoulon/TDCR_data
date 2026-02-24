@@ -1,0 +1,80 @@
+Section;Parameter;Value;Uncertainty;Unit;Description
+General;Nuclide;S-35;;-;Radionuclide name
+General;Reference Date;2025-11-25 12:00:00;;-;Reference date
+General;Measurement Date;2025-12-09 16:41:00;;-;Date of measurement
+General;Half-life (T1/2);7538000.0;13000.0;days;Half-life
+Source;Laboratory;LAB;;-;Provider of the standard solution
+Source;Source Name;AB1;;-;Name of the source
+Source;LS Cocktail;Ultima Gold AB;;-;Liquid scintillation cocktail
+Source;Aqueous Fraction;0.0116358;;rel;Aqueous fraction in scintillator
+Source;Grey Filter ND;0;;-;Neutral density grey filter
+Source;Diffusive Vial;True;;-;Diffusive vial used
+Source;Solvent;HCl;;-;Solvent type
+Source;Solvent Concentration;0.1;;mol/L;Solvent concentration in scintillator
+Source;Mass;0.174537;5e-06;g;Source mass
+Source;Volume;15;;mL;Scintillator volume
+DAQ;Device;nanoTDCR;;-;DAQ Device Name
+DAQ;Measurement Time;7200.0;;s;Duration
+DAQ;Dead Time (Extended);10.0;;us;Extended dead time
+DAQ;Coincidence Window;50;;ns;Coincidence window
+Rates;Singles Raw (A);4802.5639;2.3366296011349306;s-1;Raw singles count rate (A)
+Rates;Singles Raw (B);4821.968699999999;2.46353478158925;s-1;Raw singles count rate (B)
+Rates;Singles Raw (C);4813.3813;2.390052996086064;s-1;Raw singles count rate (C)
+Rates;Doubles Raw (AB);4491.2587;0.16458475658457378;s-1;Raw doubles count rate (AB)
+Rates;Doubles Raw (BC);4494.1536;0.15758446750869365;s-1;Raw doubles count rate (BC)
+Rates;Doubles Raw (AC);4491.5752;0.16747855265675718;s-1;Raw doubles count rate (AC)
+Rates;Doubles Raw (D);4612.493251516969;0.1649203960193521;s-1;Raw doubles count rate
+Rates;Triples Raw (T);4431.928272036843;0.16821210812101667;s-1;Raw triples count rate
+Rates;Doubles Net (D-D0);4608.681703889082;0.2825741694850269;s-1;Background corrected doubles
+Rates;Triples Net (T-T0);4429.461436344576;0.20346861180739162;s-1;Background corrected triples
+Rates;TDCR;0.9608530733644738;0.00012507400343371474;-;Triple to Double Coincidence Ratio
+Rates;Accidental Corr.;-0.004345638608150848;;%;Accidental coincidence correction
+Rates;Measurement Dead Time;5.3915416666666545;;%;Measurement dead time
+Corrections;Decay Factor (Q);1.119382916221501;0.0002177151295433609;-;Decay correction to ref date
+Corrections;Decay During Meas (k);1.0003310699383692;5.710246830033688e-07;-;Decay during measurement correction
+Uncertainty Budget;u_rel Counting Stat;6.131344875619721e-05;;rel;Relative counting statistics unc.
+Uncertainty Budget;u_rel Decay Corr;0.00019449650703079187;;rel;Relative decay correction unc.
+Uncertainty Budget;u_rel Mass;2.8647220933097282e-05;;rel;Relative mass unc.
+Uncertainty Budget;u_rel Dead Time;4.948447223927675e-05;;rel;Relative dead time unc.
+Uncertainty Budget;u_rel Coinc Window;0.0005204280353130065;;rel;Relative coincidence window unc.
+Model Stochastic;version;2.17.1;;-;Version of TDCRPy
+Model Stochastic;rho;0.9802079544857202;;g/mL;Scintillator density
+Model Stochastic;Effective Z;3.2393396611631013;;-;Effective charge number
+Model Stochastic;Effective A;5.913297346784586;;-;Effective mass number
+Model Stochastic;Micelle correction;True;;-;Micelle correction factor
+Model Stochastic;Micelle diameter;2.0;;nm;Micelle diameter
+Model Stochastic;Aqueous fraction;0.0116358;;-;Aqueous fraction
+Model Stochastic;Fraction H atom;0.574218;;rel;Fraction of H atoms in scintillator
+Model Stochastic;Fraction C atom;0.371218;;rel;Fraction of C atoms in scintillator
+Model Stochastic;Fraction N atom;0.000208;;rel;Fraction of N atoms in scintillator
+Model Stochastic;Fraction O atom;0.054141;;rel;Fraction of O atoms in scintillator
+Model Stochastic;Fraction P atom;0.000207;;rel;Fraction of P atoms in scintillator
+Model Stochastic;Fraction S atom;0.0;;rel;Fraction of S atoms in scintillator
+Model Stochastic;Fraction Na atom;0.0;;rel;Fraction of Na atoms in scintillator
+Model Stochastic;Fraction Cl atom;7e-06;;rel;Fraction of Cl atoms in scintillator
+Model Stochastic;Quantum efficiency pmt A;0.25;;-;Photomultiplier A quantum efficiency
+Model Stochastic;Quantum efficiency pmt B;0.25;;-;Photomultiplier B quantum efficiency
+Model Stochastic;Quantum efficiency pmt C;0.25;;-;Photomultiplier C quantum efficiency
+Model Stochastic;Birks Constant (kB);6e-06;;cm/keV;Birks constant
+Model Stochastic;MC trials;5000;;-;Number of Monte Carlo trails
+Model Stochastic;Free parameter;5.9028927032771445;;keV-1;Free parameter (the light yield)
+Model Stochastic;Efficiency;0.9524023281494801;0.002523721063916162;-;Detection efficiency (Stochastic)
+Model Stochastic;u_rel Efficiency kB;0.0008869679167674941;;rel;Relative eff. unc. due to kB
+Model Stochastic;Activity Conc.;31.044966257176764;0.08848690895196705;kBq/g;Activity concentration
+Model Stochastic;Combined Rel. Unc. Activity Conc.;0.002850282014125599;;rel;Combined relative uncertainty for activity concentration
+Model Stochastic;Activity;5.41849527562886;0.015443459551897671;kBq;Activity
+Model Stochastic;Combined Rel. Unc. Activity;0.002850138048723376;;rel;Combined relative uncertainty for activity
+Model Analytic;version;2.17.1;;-;Version of TDCRPy
+Model Analytic;rho;0.9802079544857202;;g/mL;Scintillator density
+Model Analytic;Effective Z;3.2393396611631013;;-;Effective charge number
+Model Analytic;Effective A;5.913297346784586;;-;Effective mass number
+Model Analytic;Energy binning electron;1000;;-;energy binning the quenching function of electrons
+Model Analytic;Energy binning alpha;1000;;-;energy binning the quenching function of alphas
+Model Analytic;Birks Constant (kB);6e-06;;cm/keV;Birks constant
+Model Analytic;Free parameter;1.3539183221603848;;keV-1;Free parameter (the photoelectron yield)
+Model Analytic;Efficiency;0.9528122683886182;0;-;Detection efficiency (Analytic)
+Model Analytic;u_rel Efficiency kB;0.001440180196019055;;rel;Relative eff. unc. due to kB
+Model Analytic;Activity Conc.;31.031609396319983;0.047971916856123016;kBq/g;Activity concentration
+Model Analytic;Combined Rel. Unc. Activity Conc.;0.0015459048946978552;;rel;Combined relative uncertainty for activity concentration
+Model Analytic;Activity;5.416164009205501;0.008371436709115224;kBq;Activity
+Model Analytic;Combined Rel. Unc. Activity;0.0015456394405499612;;rel;Combined relative uncertainty for activity

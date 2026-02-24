@@ -1,0 +1,845 @@
+Hardware, nanoTDCR TD9010
+Serial Number,10150
+Firmware Version,50.20
+FPGA Version,107.1
+Measurement, Settings
+Measurement Tag,TDCR Measurement
+Operator,
+Nuclides,
+LS Coctail,
+High Voltage,
+Threshold A [mV],  -5.00
+Threshold B [mV],  -5.00
+Threshold C [mV],  -5.00
+Dead Time Extension 1 [us], 50.000
+Dead Time Extension 2 [us], 10.000
+Coincidence Window N [ns],50
+Coincidence Window M [ns],100
+Preset Sequential Runs,10
+Preset Time per Run [s], 720.000
+Time Gap between Runs [s],  0.001
+Stop Timer,REAL
+
+Measurement, Data
+Runs Completed, 10
+
+Run1: START TIME: UTC,02/02/2026  08:01:48.243
+Run1: Real Time [s],   720.000
+Run1: Live Time PMT A E1 [s],   715.332
+Run1: Live Time PMT A E2 [s],   719.052
+Run1: Live Time PMT B E1 [s],   714.973
+Run1: Live Time PMT B E2 [s],   718.961
+Run1: Live Time PMT C E1 [s],   715.189
+Run1: Live Time PMT C E2 [s],   719.023
+
+Run1: PMT A Raw [counts], 104046
+Run1: PMT A Raw [cps],   144.508
+Run1: PMT B Raw [counts], 122578
+Run1: PMT B Raw [cps],   170.247
+Run1: PMT C Raw [counts], 107087
+Run1: PMT C Raw [cps],   148.732
+Run1: PMT A Ext1 [counts], 92359
+Run1: PMT A Ext1 [cps],   129.113
+Run1: PMT B Ext1 [counts], 98513
+Run1: PMT B Ext1 [cps],   137.786
+Run1: PMT C Ext1 [counts], 95236
+Run1: PMT C Ext1 [cps],   133.162
+Run1: PMT A Ext2 [counts], 93908
+Run1: PMT A Ext2 [cps],   130.600
+Run1: PMT B Ext2 [counts], 101590
+Run1: PMT B Ext2 [cps],   141.301
+Run1: PMT C Ext2 [counts], 96742
+Run1: PMT C Ext2 [cps],   134.546
+
+Run1: Live Time AB Ext1 [s],   706.011
+Run1: Live Time BC Ext1 [s],   706.011
+Run1: Live Time AC Ext1 [s],   706.011
+Run1: Live Time T Ext1 [s],   706.011
+
+Run1: Coincidence AB_N1 [counts], 2709
+Run1: Coincidence AB_N1 [cps],     3.837
+Run1: Coincidence BC_N1 [counts], 2663
+Run1: Coincidence BC_N1 [cps],     3.772
+Run1: Coincidence AC_N1 [counts], 2372
+Run1: Coincidence AC_N1 [cps],     3.360
+Run1: Coincidence D_N1 [counts], 3496
+Run1: Coincidence D_N1 [cps],     4.952
+Run1: Coincidence T_N1 [counts], 2124
+Run1: Coincidence T_N1 [cps],     3.008
+
+Run1: Coincidence AB_M1 [counts], 2804
+Run1: Coincidence AB_M1 [cps],     3.972
+Run1: Coincidence BC_M1 [counts], 2778
+Run1: Coincidence BC_M1 [cps],     3.935
+Run1: Coincidence AC_M1 [counts], 2468
+Run1: Coincidence AC_M1 [cps],     3.496
+Run1: Coincidence D_M1 [counts], 3604
+Run1: Coincidence D_M1 [cps],     5.105
+Run1: Coincidence T_M1 [counts], 2223
+Run1: Coincidence T_M1 [cps],     3.149
+
+Run1: Live Time AB Ext2 [s],   717.129
+Run1: Live Time BC Ext2 [s],   717.129
+Run1: Live Time AC Ext2 [s],   717.129
+Run1: Live Time T Ext2 [s],   717.129
+
+Run1: Coincidence AB_N2 [counts], 2872
+Run1: Coincidence AB_N2 [cps],     4.005
+Run1: Coincidence BC_N2 [counts], 2812
+Run1: Coincidence BC_N2 [cps],     3.921
+Run1: Coincidence AC_N2 [counts], 2483
+Run1: Coincidence AC_N2 [cps],     3.462
+Run1: Coincidence D_N2 [counts], 3719
+Run1: Coincidence D_N2 [cps],     5.186
+Run1: Coincidence T_N2 [counts], 2224
+Run1: Coincidence T_N2 [cps],     3.101
+
+Run1: Coincidence AB_M2 [counts], 2976
+Run1: Coincidence AB_M2 [cps],     4.150
+Run1: Coincidence BC_M2 [counts], 2934
+Run1: Coincidence BC_M2 [cps],     4.091
+Run1: Coincidence AC_M2 [counts], 2587
+Run1: Coincidence AC_M2 [cps],     3.607
+Run1: Coincidence D_M2 [counts], 3833
+Run1: Coincidence D_M2 [cps],     5.345
+Run1: Coincidence T_M2 [counts], 2332
+Run1: Coincidence T_M2 [cps],     3.252
+
+Run2: START TIME: UTC,02/02/2026  08:13:48.243
+Run2: Real Time [s],   720.000
+Run2: Live Time PMT A E1 [s],   715.613
+Run2: Live Time PMT A E2 [s],   719.110
+Run2: Live Time PMT B E1 [s],   715.213
+Run2: Live Time PMT B E2 [s],   719.013
+Run2: Live Time PMT C E1 [s],   715.772
+Run2: Live Time PMT C E2 [s],   719.142
+
+Run2: PMT A Raw [counts], 96955
+Run2: PMT A Raw [cps],   134.660
+Run2: PMT B Raw [counts], 114580
+Run2: PMT B Raw [cps],   159.139
+Run2: PMT C Raw [counts], 94180
+Run2: PMT C Raw [cps],   130.806
+Run2: PMT A Ext1 [counts], 86895
+Run2: PMT A Ext1 [cps],   121.427
+Run2: PMT B Ext1 [counts], 94038
+Run2: PMT B Ext1 [cps],   131.483
+Run2: PMT C Ext1 [counts], 83729
+Run2: PMT C Ext1 [cps],   116.977
+Run2: PMT A Ext2 [counts], 88169
+Run2: PMT A Ext2 [cps],   122.609
+Run2: PMT B Ext2 [counts], 96607
+Run2: PMT B Ext2 [cps],   134.361
+Run2: PMT C Ext2 [counts], 85009
+Run2: PMT C Ext2 [cps],   118.209
+
+Run2: Live Time AB Ext1 [s],   707.056
+Run2: Live Time BC Ext1 [s],   707.056
+Run2: Live Time AC Ext1 [s],   707.056
+Run2: Live Time T Ext1 [s],   707.056
+
+Run2: Coincidence AB_N1 [counts], 2484
+Run2: Coincidence AB_N1 [cps],     3.513
+Run2: Coincidence BC_N1 [counts], 2457
+Run2: Coincidence BC_N1 [cps],     3.475
+Run2: Coincidence AC_N1 [counts], 2246
+Run2: Coincidence AC_N1 [cps],     3.177
+Run2: Coincidence D_N1 [counts], 3201
+Run2: Coincidence D_N1 [cps],     4.527
+Run2: Coincidence T_N1 [counts], 1993
+Run2: Coincidence T_N1 [cps],     2.819
+
+Run2: Coincidence AB_M1 [counts], 2584
+Run2: Coincidence AB_M1 [cps],     3.655
+Run2: Coincidence BC_M1 [counts], 2547
+Run2: Coincidence BC_M1 [cps],     3.602
+Run2: Coincidence AC_M1 [counts], 2331
+Run2: Coincidence AC_M1 [cps],     3.297
+Run2: Coincidence D_M1 [counts], 3302
+Run2: Coincidence D_M1 [cps],     4.670
+Run2: Coincidence T_M1 [counts], 2080
+Run2: Coincidence T_M1 [cps],     2.942
+
+Run2: Live Time AB Ext2 [s],   717.349
+Run2: Live Time BC Ext2 [s],   717.349
+Run2: Live Time AC Ext2 [s],   717.349
+Run2: Live Time T Ext2 [s],   717.349
+
+Run2: Coincidence AB_N2 [counts], 2612
+Run2: Coincidence AB_N2 [cps],     3.641
+Run2: Coincidence BC_N2 [counts], 2590
+Run2: Coincidence BC_N2 [cps],     3.611
+Run2: Coincidence AC_N2 [counts], 2340
+Run2: Coincidence AC_N2 [cps],     3.262
+Run2: Coincidence D_N2 [counts], 3386
+Run2: Coincidence D_N2 [cps],     4.720
+Run2: Coincidence T_N2 [counts], 2078
+Run2: Coincidence T_N2 [cps],     2.897
+
+Run2: Coincidence AB_M2 [counts], 2720
+Run2: Coincidence AB_M2 [cps],     3.792
+Run2: Coincidence BC_M2 [counts], 2686
+Run2: Coincidence BC_M2 [cps],     3.744
+Run2: Coincidence AC_M2 [counts], 2431
+Run2: Coincidence AC_M2 [cps],     3.389
+Run2: Coincidence D_M2 [counts], 3497
+Run2: Coincidence D_M2 [cps],     4.875
+Run2: Coincidence T_M2 [counts], 2170
+Run2: Coincidence T_M2 [cps],     3.025
+
+Run3: START TIME: UTC,02/02/2026  08:25:48.244
+Run3: Real Time [s],   720.000
+Run3: Live Time PMT A E1 [s],   715.598
+Run3: Live Time PMT A E2 [s],   719.107
+Run3: Live Time PMT B E1 [s],   715.170
+Run3: Live Time PMT B E2 [s],   719.009
+Run3: Live Time PMT C E1 [s],   715.787
+Run3: Live Time PMT C E2 [s],   719.145
+
+Run3: PMT A Raw [counts], 96555
+Run3: PMT A Raw [cps],   134.104
+Run3: PMT B Raw [counts], 112567
+Run3: PMT B Raw [cps],   156.343
+Run3: PMT C Raw [counts], 92949
+Run3: PMT C Raw [cps],   129.096
+Run3: PMT A Ext1 [counts], 87259
+Run3: PMT A Ext1 [cps],   121.939
+Run3: PMT B Ext1 [counts], 95104
+Run3: PMT B Ext1 [cps],   132.981
+Run3: PMT C Ext1 [counts], 83469
+Run3: PMT C Ext1 [cps],   116.612
+Run3: PMT A Ext2 [counts], 88456
+Run3: PMT A Ext2 [cps],   123.008
+Run3: PMT B Ext2 [counts], 97376
+Run3: PMT B Ext2 [cps],   135.431
+Run3: PMT C Ext2 [counts], 84651
+Run3: PMT C Ext2 [cps],   117.711
+
+Run3: Live Time AB Ext1 [s],   706.983
+Run3: Live Time BC Ext1 [s],   706.983
+Run3: Live Time AC Ext1 [s],   706.983
+Run3: Live Time T Ext1 [s],   706.983
+
+Run3: Coincidence AB_N1 [counts], 2320
+Run3: Coincidence AB_N1 [cps],     3.282
+Run3: Coincidence BC_N1 [counts], 2369
+Run3: Coincidence BC_N1 [cps],     3.351
+Run3: Coincidence AC_N1 [counts], 2140
+Run3: Coincidence AC_N1 [cps],     3.027
+Run3: Coincidence D_N1 [counts], 2991
+Run3: Coincidence D_N1 [cps],     4.231
+Run3: Coincidence T_N1 [counts], 1919
+Run3: Coincidence T_N1 [cps],     2.714
+
+Run3: Coincidence AB_M1 [counts], 2392
+Run3: Coincidence AB_M1 [cps],     3.383
+Run3: Coincidence BC_M1 [counts], 2456
+Run3: Coincidence BC_M1 [cps],     3.474
+Run3: Coincidence AC_M1 [counts], 2213
+Run3: Coincidence AC_M1 [cps],     3.130
+Run3: Coincidence D_M1 [counts], 3073
+Run3: Coincidence D_M1 [cps],     4.347
+Run3: Coincidence T_M1 [counts], 1994
+Run3: Coincidence T_M1 [cps],     2.820
+
+Run3: Live Time AB Ext2 [s],   717.340
+Run3: Live Time BC Ext2 [s],   717.340
+Run3: Live Time AC Ext2 [s],   717.340
+Run3: Live Time T Ext2 [s],   717.340
+
+Run3: Coincidence AB_N2 [counts], 2430
+Run3: Coincidence AB_N2 [cps],     3.388
+Run3: Coincidence BC_N2 [counts], 2486
+Run3: Coincidence BC_N2 [cps],     3.466
+Run3: Coincidence AC_N2 [counts], 2220
+Run3: Coincidence AC_N2 [cps],     3.095
+Run3: Coincidence D_N2 [counts], 3150
+Run3: Coincidence D_N2 [cps],     4.391
+Run3: Coincidence T_N2 [counts], 1993
+Run3: Coincidence T_N2 [cps],     2.778
+
+Run3: Coincidence AB_M2 [counts], 2508
+Run3: Coincidence AB_M2 [cps],     3.496
+Run3: Coincidence BC_M2 [counts], 2576
+Run3: Coincidence BC_M2 [cps],     3.591
+Run3: Coincidence AC_M2 [counts], 2299
+Run3: Coincidence AC_M2 [cps],     3.205
+Run3: Coincidence D_M2 [counts], 3239
+Run3: Coincidence D_M2 [cps],     4.515
+Run3: Coincidence T_M2 [counts], 2072
+Run3: Coincidence T_M2 [cps],     2.888
+
+Run4: START TIME: UTC,02/02/2026  08:37:48.245
+Run4: Real Time [s],   720.000
+Run4: Live Time PMT A E1 [s],   715.488
+Run4: Live Time PMT A E2 [s],   719.084
+Run4: Live Time PMT B E1 [s],   714.982
+Run4: Live Time PMT B E2 [s],   718.972
+Run4: Live Time PMT C E1 [s],   715.669
+Run4: Live Time PMT C E2 [s],   719.121
+
+Run4: PMT A Raw [counts], 99137
+Run4: PMT A Raw [cps],   137.690
+Run4: PMT B Raw [counts], 115389
+Run4: PMT B Raw [cps],   160.262
+Run4: PMT C Raw [counts], 95699
+Run4: PMT C Raw [cps],   132.915
+Run4: PMT A Ext1 [counts], 89399
+Run4: PMT A Ext1 [cps],   124.948
+Run4: PMT B Ext1 [counts], 98909
+Run4: PMT B Ext1 [cps],   138.338
+Run4: PMT C Ext1 [counts], 85782
+Run4: PMT C Ext1 [cps],   119.863
+Run4: PMT A Ext2 [counts], 90654
+Run4: PMT A Ext2 [cps],   126.069
+Run4: PMT B Ext2 [counts], 101158
+Run4: PMT B Ext2 [cps],   140.698
+Run4: PMT C Ext2 [counts], 87059
+Run4: PMT C Ext2 [cps],   121.063
+
+Run4: Live Time AB Ext1 [s],   706.568
+Run4: Live Time BC Ext1 [s],   706.568
+Run4: Live Time AC Ext1 [s],   706.568
+Run4: Live Time T Ext1 [s],   706.568
+
+Run4: Coincidence AB_N1 [counts], 2267
+Run4: Coincidence AB_N1 [cps],     3.208
+Run4: Coincidence BC_N1 [counts], 2274
+Run4: Coincidence BC_N1 [cps],     3.218
+Run4: Coincidence AC_N1 [counts], 2114
+Run4: Coincidence AC_N1 [cps],     2.992
+Run4: Coincidence D_N1 [counts], 2867
+Run4: Coincidence D_N1 [cps],     4.058
+Run4: Coincidence T_N1 [counts], 1894
+Run4: Coincidence T_N1 [cps],     2.681
+
+Run4: Coincidence AB_M1 [counts], 2364
+Run4: Coincidence AB_M1 [cps],     3.346
+Run4: Coincidence BC_M1 [counts], 2361
+Run4: Coincidence BC_M1 [cps],     3.342
+Run4: Coincidence AC_M1 [counts], 2198
+Run4: Coincidence AC_M1 [cps],     3.111
+Run4: Coincidence D_M1 [counts], 2955
+Run4: Coincidence D_M1 [cps],     4.182
+Run4: Coincidence T_M1 [counts], 1984
+Run4: Coincidence T_M1 [cps],     2.808
+
+Run4: Live Time AB Ext2 [s],   717.255
+Run4: Live Time BC Ext2 [s],   717.255
+Run4: Live Time AC Ext2 [s],   717.255
+Run4: Live Time T Ext2 [s],   717.255
+
+Run4: Coincidence AB_N2 [counts], 2368
+Run4: Coincidence AB_N2 [cps],     3.301
+Run4: Coincidence BC_N2 [counts], 2387
+Run4: Coincidence BC_N2 [cps],     3.328
+Run4: Coincidence AC_N2 [counts], 2198
+Run4: Coincidence AC_N2 [cps],     3.064
+Run4: Coincidence D_N2 [counts], 3017
+Run4: Coincidence D_N2 [cps],     4.206
+Run4: Coincidence T_N2 [counts], 1968
+Run4: Coincidence T_N2 [cps],     2.744
+
+Run4: Coincidence AB_M2 [counts], 2472
+Run4: Coincidence AB_M2 [cps],     3.446
+Run4: Coincidence BC_M2 [counts], 2478
+Run4: Coincidence BC_M2 [cps],     3.455
+Run4: Coincidence AC_M2 [counts], 2287
+Run4: Coincidence AC_M2 [cps],     3.189
+Run4: Coincidence D_M2 [counts], 3115
+Run4: Coincidence D_M2 [cps],     4.343
+Run4: Coincidence T_M2 [counts], 2061
+Run4: Coincidence T_M2 [cps],     2.873
+
+Run5: START TIME: UTC,02/02/2026  08:49:48.246
+Run5: Real Time [s],   720.000
+Run5: Live Time PMT A E1 [s],   715.422
+Run5: Live Time PMT A E2 [s],   719.073
+Run5: Live Time PMT B E1 [s],   714.995
+Run5: Live Time PMT B E2 [s],   718.978
+Run5: Live Time PMT C E1 [s],   715.663
+Run5: Live Time PMT C E2 [s],   719.121
+
+Run5: PMT A Raw [counts], 99319
+Run5: PMT A Raw [cps],   137.943
+Run5: PMT B Raw [counts], 113288
+Run5: PMT B Raw [cps],   157.344
+Run5: PMT C Raw [counts], 94743
+Run5: PMT C Raw [cps],   131.588
+Run5: PMT A Ext1 [counts], 90806
+Run5: PMT A Ext1 [cps],   126.926
+Run5: PMT B Ext1 [counts], 98847
+Run5: PMT B Ext1 [cps],   138.249
+Run5: PMT C Ext1 [counts], 85993
+Run5: PMT C Ext1 [cps],   120.159
+Run5: PMT A Ext2 [counts], 91986
+Run5: PMT A Ext2 [cps],   127.923
+Run5: PMT B Ext2 [counts], 100763
+Run5: PMT B Ext2 [cps],   140.148
+Run5: PMT C Ext2 [counts], 87144
+Run5: PMT C Ext2 [cps],   121.181
+
+Run5: Live Time AB Ext1 [s],   706.463
+Run5: Live Time BC Ext1 [s],   706.463
+Run5: Live Time AC Ext1 [s],   706.463
+Run5: Live Time T Ext1 [s],   706.463
+
+Run5: Coincidence AB_N1 [counts], 1985
+Run5: Coincidence AB_N1 [cps],     2.810
+Run5: Coincidence BC_N1 [counts], 1998
+Run5: Coincidence BC_N1 [cps],     2.828
+Run5: Coincidence AC_N1 [counts], 1862
+Run5: Coincidence AC_N1 [cps],     2.636
+Run5: Coincidence D_N1 [counts], 2511
+Run5: Coincidence D_N1 [cps],     3.554
+Run5: Coincidence T_N1 [counts], 1667
+Run5: Coincidence T_N1 [cps],     2.360
+
+Run5: Coincidence AB_M1 [counts], 2043
+Run5: Coincidence AB_M1 [cps],     2.892
+Run5: Coincidence BC_M1 [counts], 2070
+Run5: Coincidence BC_M1 [cps],     2.930
+Run5: Coincidence AC_M1 [counts], 1917
+Run5: Coincidence AC_M1 [cps],     2.714
+Run5: Coincidence D_M1 [counts], 2576
+Run5: Coincidence D_M1 [cps],     3.646
+Run5: Coincidence T_M1 [counts], 1727
+Run5: Coincidence T_M1 [cps],     2.445
+
+Run5: Live Time AB Ext2 [s],   717.240
+Run5: Live Time BC Ext2 [s],   717.240
+Run5: Live Time AC Ext2 [s],   717.240
+Run5: Live Time T Ext2 [s],   717.240
+
+Run5: Coincidence AB_N2 [counts], 2063
+Run5: Coincidence AB_N2 [cps],     2.876
+Run5: Coincidence BC_N2 [counts], 2077
+Run5: Coincidence BC_N2 [cps],     2.896
+Run5: Coincidence AC_N2 [counts], 1923
+Run5: Coincidence AC_N2 [cps],     2.681
+Run5: Coincidence D_N2 [counts], 2627
+Run5: Coincidence D_N2 [cps],     3.663
+Run5: Coincidence T_N2 [counts], 1718
+Run5: Coincidence T_N2 [cps],     2.395
+
+Run5: Coincidence AB_M2 [counts], 2123
+Run5: Coincidence AB_M2 [cps],     2.960
+Run5: Coincidence BC_M2 [counts], 2154
+Run5: Coincidence BC_M2 [cps],     3.003
+Run5: Coincidence AC_M2 [counts], 1981
+Run5: Coincidence AC_M2 [cps],     2.762
+Run5: Coincidence D_M2 [counts], 2696
+Run5: Coincidence D_M2 [cps],     3.759
+Run5: Coincidence T_M2 [counts], 1781
+Run5: Coincidence T_M2 [cps],     2.483
+
+Run6: START TIME: UTC,02/02/2026  09:01:48.248
+Run6: Real Time [s],   720.000
+Run6: Live Time PMT A E1 [s],   715.358
+Run6: Live Time PMT A E2 [s],   719.061
+Run6: Live Time PMT B E1 [s],   714.934
+Run6: Live Time PMT B E2 [s],   718.969
+Run6: Live Time PMT C E1 [s],   715.612
+Run6: Live Time PMT C E2 [s],   719.112
+
+Run6: PMT A Raw [counts], 100189
+Run6: PMT A Raw [cps],   139.151
+Run6: PMT B Raw [counts], 112688
+Run6: PMT B Raw [cps],   156.511
+Run6: PMT C Raw [counts], 95175
+Run6: PMT C Raw [cps],   132.188
+Run6: PMT A Ext1 [counts], 92093
+Run6: PMT A Ext1 [cps],   128.737
+Run6: PMT B Ext1 [counts], 100179
+Run6: PMT B Ext1 [cps],   140.123
+Run6: PMT C Ext1 [counts], 87070
+Run6: PMT C Ext1 [cps],   121.672
+Run6: PMT A Ext2 [counts], 93231
+Run6: PMT A Ext2 [cps],   129.657
+Run6: PMT B Ext2 [counts], 101891
+Run6: PMT B Ext2 [cps],   141.718
+Run6: PMT C Ext2 [counts], 88127
+Run6: PMT C Ext2 [cps],   122.550
+
+Run6: Live Time AB Ext1 [s],   706.271
+Run6: Live Time BC Ext1 [s],   706.271
+Run6: Live Time AC Ext1 [s],   706.271
+Run6: Live Time T Ext1 [s],   706.271
+
+Run6: Coincidence AB_N1 [counts], 1861
+Run6: Coincidence AB_N1 [cps],     2.635
+Run6: Coincidence BC_N1 [counts], 1887
+Run6: Coincidence BC_N1 [cps],     2.672
+Run6: Coincidence AC_N1 [counts], 1782
+Run6: Coincidence AC_N1 [cps],     2.523
+Run6: Coincidence D_N1 [counts], 2362
+Run6: Coincidence D_N1 [cps],     3.344
+Run6: Coincidence T_N1 [counts], 1584
+Run6: Coincidence T_N1 [cps],     2.243
+
+Run6: Coincidence AB_M1 [counts], 1935
+Run6: Coincidence AB_M1 [cps],     2.740
+Run6: Coincidence BC_M1 [counts], 1971
+Run6: Coincidence BC_M1 [cps],     2.791
+Run6: Coincidence AC_M1 [counts], 1848
+Run6: Coincidence AC_M1 [cps],     2.617
+Run6: Coincidence D_M1 [counts], 2442
+Run6: Coincidence D_M1 [cps],     3.458
+Run6: Coincidence T_M1 [counts], 1656
+Run6: Coincidence T_M1 [cps],     2.345
+
+Run6: Live Time AB Ext2 [s],   717.205
+Run6: Live Time BC Ext2 [s],   717.205
+Run6: Live Time AC Ext2 [s],   717.205
+Run6: Live Time T Ext2 [s],   717.205
+
+Run6: Coincidence AB_N2 [counts], 1934
+Run6: Coincidence AB_N2 [cps],     2.697
+Run6: Coincidence BC_N2 [counts], 1953
+Run6: Coincidence BC_N2 [cps],     2.723
+Run6: Coincidence AC_N2 [counts], 1838
+Run6: Coincidence AC_N2 [cps],     2.563
+Run6: Coincidence D_N2 [counts], 2461
+Run6: Coincidence D_N2 [cps],     3.431
+Run6: Coincidence T_N2 [counts], 1632
+Run6: Coincidence T_N2 [cps],     2.276
+
+Run6: Coincidence AB_M2 [counts], 2011
+Run6: Coincidence AB_M2 [cps],     2.804
+Run6: Coincidence BC_M2 [counts], 2039
+Run6: Coincidence BC_M2 [cps],     2.843
+Run6: Coincidence AC_M2 [counts], 1905
+Run6: Coincidence AC_M2 [cps],     2.656
+Run6: Coincidence D_M2 [counts], 2543
+Run6: Coincidence D_M2 [cps],     3.546
+Run6: Coincidence T_M2 [counts], 1706
+Run6: Coincidence T_M2 [cps],     2.379
+
+Run7: START TIME: UTC,02/02/2026  09:13:48.248
+Run7: Real Time [s],   720.000
+Run7: Live Time PMT A E1 [s],   715.273
+Run7: Live Time PMT A E2 [s],   719.043
+Run7: Live Time PMT B E1 [s],   714.904
+Run7: Live Time PMT B E2 [s],   718.963
+Run7: Live Time PMT C E1 [s],   715.556
+Run7: Live Time PMT C E2 [s],   719.100
+
+Run7: PMT A Raw [counts], 102082
+Run7: PMT A Raw [cps],   141.781
+Run7: PMT B Raw [counts], 113156
+Run7: PMT B Raw [cps],   157.161
+Run7: PMT C Raw [counts], 96359
+Run7: PMT C Raw [cps],   133.832
+Run7: PMT A Ext1 [counts], 93779
+Run7: PMT A Ext1 [cps],   131.109
+Run7: PMT B Ext1 [counts], 100805
+Run7: PMT B Ext1 [cps],   141.005
+Run7: PMT C Ext1 [counts], 88187
+Run7: PMT C Ext1 [cps],   123.243
+Run7: PMT A Ext2 [counts], 94939
+Run7: PMT A Ext2 [cps],   132.035
+Run7: PMT B Ext2 [counts], 102499
+Run7: PMT B Ext2 [cps],   142.565
+Run7: PMT C Ext2 [counts], 89249
+Run7: PMT C Ext2 [cps],   124.112
+
+Run7: Live Time AB Ext1 [s],   706.095
+Run7: Live Time BC Ext1 [s],   706.095
+Run7: Live Time AC Ext1 [s],   706.095
+Run7: Live Time T Ext1 [s],   706.095
+
+Run7: Coincidence AB_N1 [counts], 1822
+Run7: Coincidence AB_N1 [cps],     2.580
+Run7: Coincidence BC_N1 [counts], 1853
+Run7: Coincidence BC_N1 [cps],     2.624
+Run7: Coincidence AC_N1 [counts], 1770
+Run7: Coincidence AC_N1 [cps],     2.507
+Run7: Coincidence D_N1 [counts], 2325
+Run7: Coincidence D_N1 [cps],     3.293
+Run7: Coincidence T_N1 [counts], 1560
+Run7: Coincidence T_N1 [cps],     2.209
+
+Run7: Coincidence AB_M1 [counts], 1908
+Run7: Coincidence AB_M1 [cps],     2.702
+Run7: Coincidence BC_M1 [counts], 1927
+Run7: Coincidence BC_M1 [cps],     2.729
+Run7: Coincidence AC_M1 [counts], 1840
+Run7: Coincidence AC_M1 [cps],     2.606
+Run7: Coincidence D_M1 [counts], 2391
+Run7: Coincidence D_M1 [cps],     3.386
+Run7: Coincidence T_M1 [counts], 1642
+Run7: Coincidence T_M1 [cps],     2.325
+
+Run7: Live Time AB Ext2 [s],   717.169
+Run7: Live Time BC Ext2 [s],   717.169
+Run7: Live Time AC Ext2 [s],   717.169
+Run7: Live Time T Ext2 [s],   717.169
+
+Run7: Coincidence AB_N2 [counts], 1870
+Run7: Coincidence AB_N2 [cps],     2.607
+Run7: Coincidence BC_N2 [counts], 1907
+Run7: Coincidence BC_N2 [cps],     2.659
+Run7: Coincidence AC_N2 [counts], 1818
+Run7: Coincidence AC_N2 [cps],     2.535
+Run7: Coincidence D_N2 [counts], 2401
+Run7: Coincidence D_N2 [cps],     3.348
+Run7: Coincidence T_N2 [counts], 1597
+Run7: Coincidence T_N2 [cps],     2.227
+
+Run7: Coincidence AB_M2 [counts], 1959
+Run7: Coincidence AB_M2 [cps],     2.732
+Run7: Coincidence BC_M2 [counts], 1985
+Run7: Coincidence BC_M2 [cps],     2.768
+Run7: Coincidence AC_M2 [counts], 1891
+Run7: Coincidence AC_M2 [cps],     2.637
+Run7: Coincidence D_M2 [counts], 2473
+Run7: Coincidence D_M2 [cps],     3.448
+Run7: Coincidence T_M2 [counts], 1681
+Run7: Coincidence T_M2 [cps],     2.344
+
+Run8: START TIME: UTC,02/02/2026  09:25:48.249
+Run8: Real Time [s],   720.000
+Run8: Live Time PMT A E1 [s],   715.244
+Run8: Live Time PMT A E2 [s],   719.037
+Run8: Live Time PMT B E1 [s],   714.893
+Run8: Live Time PMT B E2 [s],   718.963
+Run8: Live Time PMT C E1 [s],   715.563
+Run8: Live Time PMT C E2 [s],   719.101
+
+Run8: PMT A Raw [counts], 102738
+Run8: PMT A Raw [cps],   142.692
+Run8: PMT B Raw [counts], 112399
+Run8: PMT B Raw [cps],   156.110
+Run8: PMT C Raw [counts], 96283
+Run8: PMT C Raw [cps],   133.726
+Run8: PMT A Ext1 [counts], 94337
+Run8: PMT A Ext1 [cps],   131.895
+Run8: PMT B Ext1 [counts], 101153
+Run8: PMT B Ext1 [cps],   141.494
+Run8: PMT C Ext1 [counts], 87989
+Run8: PMT C Ext1 [cps],   122.965
+Run8: PMT A Ext2 [counts], 95547
+Run8: PMT A Ext2 [cps],   132.882
+Run8: PMT B Ext2 [counts], 102703
+Run8: PMT B Ext2 [cps],   142.849
+Run8: PMT C Ext2 [counts], 89120
+Run8: PMT C Ext2 [cps],   123.933
+
+Run8: Live Time AB Ext1 [s],   706.050
+Run8: Live Time BC Ext1 [s],   706.050
+Run8: Live Time AC Ext1 [s],   706.050
+Run8: Live Time T Ext1 [s],   706.050
+
+Run8: Coincidence AB_N1 [counts], 1771
+Run8: Coincidence AB_N1 [cps],     2.508
+Run8: Coincidence BC_N1 [counts], 1785
+Run8: Coincidence BC_N1 [cps],     2.528
+Run8: Coincidence AC_N1 [counts], 1714
+Run8: Coincidence AC_N1 [cps],     2.428
+Run8: Coincidence D_N1 [counts], 2240
+Run8: Coincidence D_N1 [cps],     3.173
+Run8: Coincidence T_N1 [counts], 1515
+Run8: Coincidence T_N1 [cps],     2.146
+
+Run8: Coincidence AB_M1 [counts], 1831
+Run8: Coincidence AB_M1 [cps],     2.593
+Run8: Coincidence BC_M1 [counts], 1849
+Run8: Coincidence BC_M1 [cps],     2.619
+Run8: Coincidence AC_M1 [counts], 1780
+Run8: Coincidence AC_M1 [cps],     2.521
+Run8: Coincidence D_M1 [counts], 2290
+Run8: Coincidence D_M1 [cps],     3.243
+Run8: Coincidence T_M1 [counts], 1585
+Run8: Coincidence T_M1 [cps],     2.245
+
+Run8: Live Time AB Ext2 [s],   717.162
+Run8: Live Time BC Ext2 [s],   717.162
+Run8: Live Time AC Ext2 [s],   717.162
+Run8: Live Time T Ext2 [s],   717.162
+
+Run8: Coincidence AB_N2 [counts], 1826
+Run8: Coincidence AB_N2 [cps],     2.546
+Run8: Coincidence BC_N2 [counts], 1839
+Run8: Coincidence BC_N2 [cps],     2.564
+Run8: Coincidence AC_N2 [counts], 1754
+Run8: Coincidence AC_N2 [cps],     2.446
+Run8: Coincidence D_N2 [counts], 2317
+Run8: Coincidence D_N2 [cps],     3.231
+Run8: Coincidence T_N2 [counts], 1551
+Run8: Coincidence T_N2 [cps],     2.163
+
+Run8: Coincidence AB_M2 [counts], 1888
+Run8: Coincidence AB_M2 [cps],     2.633
+Run8: Coincidence BC_M2 [counts], 1907
+Run8: Coincidence BC_M2 [cps],     2.659
+Run8: Coincidence AC_M2 [counts], 1822
+Run8: Coincidence AC_M2 [cps],     2.541
+Run8: Coincidence D_M2 [counts], 2375
+Run8: Coincidence D_M2 [cps],     3.312
+Run8: Coincidence T_M2 [counts], 1621
+Run8: Coincidence T_M2 [cps],     2.260
+
+Run9: START TIME: UTC,02/02/2026  09:37:48.250
+Run9: Real Time [s],   720.000
+Run9: Live Time PMT A E1 [s],   715.223
+Run9: Live Time PMT A E2 [s],   719.033
+Run9: Live Time PMT B E1 [s],   714.898
+Run9: Live Time PMT B E2 [s],   718.965
+Run9: Live Time PMT C E1 [s],   715.534
+Run9: Live Time PMT C E2 [s],   719.096
+
+Run9: PMT A Raw [counts], 102856
+Run9: PMT A Raw [cps],   142.856
+Run9: PMT B Raw [counts], 111646
+Run9: PMT B Raw [cps],   155.064
+Run9: PMT C Raw [counts], 96705
+Run9: PMT C Raw [cps],   134.313
+Run9: PMT A Ext1 [counts], 94799
+Run9: PMT A Ext1 [cps],   132.545
+Run9: PMT B Ext1 [counts], 101107
+Run9: PMT B Ext1 [cps],   141.429
+Run9: PMT C Ext1 [counts], 88593
+Run9: PMT C Ext1 [cps],   123.814
+Run9: PMT A Ext2 [counts], 95953
+Run9: PMT A Ext2 [cps],   133.447
+Run9: PMT B Ext2 [counts], 102544
+Run9: PMT B Ext2 [cps],   142.627
+Run9: PMT C Ext2 [counts], 89711
+Run9: PMT C Ext2 [cps],   124.755
+
+Run9: Live Time AB Ext1 [s],   705.999
+Run9: Live Time BC Ext1 [s],   705.999
+Run9: Live Time AC Ext1 [s],   705.999
+Run9: Live Time T Ext1 [s],   705.999
+
+Run9: Coincidence AB_N1 [counts], 1677
+Run9: Coincidence AB_N1 [cps],     2.375
+Run9: Coincidence BC_N1 [counts], 1692
+Run9: Coincidence BC_N1 [cps],     2.397
+Run9: Coincidence AC_N1 [counts], 1654
+Run9: Coincidence AC_N1 [cps],     2.343
+Run9: Coincidence D_N1 [counts], 2117
+Run9: Coincidence D_N1 [cps],     2.999
+Run9: Coincidence T_N1 [counts], 1453
+Run9: Coincidence T_N1 [cps],     2.058
+
+Run9: Coincidence AB_M1 [counts], 1752
+Run9: Coincidence AB_M1 [cps],     2.482
+Run9: Coincidence BC_M1 [counts], 1776
+Run9: Coincidence BC_M1 [cps],     2.516
+Run9: Coincidence AC_M1 [counts], 1729
+Run9: Coincidence AC_M1 [cps],     2.449
+Run9: Coincidence D_M1 [counts], 2191
+Run9: Coincidence D_M1 [cps],     3.103
+Run9: Coincidence T_M1 [counts], 1533
+Run9: Coincidence T_M1 [cps],     2.171
+
+Run9: Live Time AB Ext2 [s],   717.153
+Run9: Live Time BC Ext2 [s],   717.153
+Run9: Live Time AC Ext2 [s],   717.153
+Run9: Live Time T Ext2 [s],   717.153
+
+Run9: Coincidence AB_N2 [counts], 1714
+Run9: Coincidence AB_N2 [cps],     2.390
+Run9: Coincidence BC_N2 [counts], 1738
+Run9: Coincidence BC_N2 [cps],     2.423
+Run9: Coincidence AC_N2 [counts], 1684
+Run9: Coincidence AC_N2 [cps],     2.348
+Run9: Coincidence D_N2 [counts], 2178
+Run9: Coincidence D_N2 [cps],     3.037
+Run9: Coincidence T_N2 [counts], 1479
+Run9: Coincidence T_N2 [cps],     2.062
+
+Run9: Coincidence AB_M2 [counts], 1792
+Run9: Coincidence AB_M2 [cps],     2.499
+Run9: Coincidence BC_M2 [counts], 1825
+Run9: Coincidence BC_M2 [cps],     2.545
+Run9: Coincidence AC_M2 [counts], 1761
+Run9: Coincidence AC_M2 [cps],     2.456
+Run9: Coincidence D_M2 [counts], 2254
+Run9: Coincidence D_M2 [cps],     3.143
+Run9: Coincidence T_M2 [counts], 1562
+Run9: Coincidence T_M2 [cps],     2.178
+
+Run10: START TIME: UTC,02/02/2026  09:49:48.251
+Run10: Real Time [s],   720.000
+Run10: Live Time PMT A E1 [s],   715.245
+Run10: Live Time PMT A E2 [s],   719.039
+Run10: Live Time PMT B E1 [s],   714.886
+Run10: Live Time PMT B E2 [s],   718.963
+Run10: Live Time PMT C E1 [s],   715.528
+Run10: Live Time PMT C E2 [s],   719.095
+
+Run10: PMT A Raw [counts], 102183
+Run10: PMT A Raw [cps],   141.921
+Run10: PMT B Raw [counts], 111705
+Run10: PMT B Raw [cps],   155.146
+Run10: PMT C Raw [counts], 96731
+Run10: PMT C Raw [cps],   134.349
+Run10: PMT A Ext1 [counts], 94394
+Run10: PMT A Ext1 [cps],   131.974
+Run10: PMT B Ext1 [counts], 101337
+Run10: PMT B Ext1 [cps],   141.753
+Run10: PMT C Ext1 [counts], 88769
+Run10: PMT C Ext1 [cps],   124.061
+Run10: PMT A Ext2 [counts], 95481
+Run10: PMT A Ext2 [cps],   132.790
+Run10: PMT B Ext2 [counts], 102772
+Run10: PMT B Ext2 [cps],   142.945
+Run10: PMT C Ext2 [counts], 89783
+Run10: PMT C Ext2 [cps],   124.856
+
+Run10: Live Time AB Ext1 [s],   705.986
+Run10: Live Time BC Ext1 [s],   705.986
+Run10: Live Time AC Ext1 [s],   705.986
+Run10: Live Time T Ext1 [s],   705.986
+
+Run10: Coincidence AB_N1 [counts], 1653
+Run10: Coincidence AB_N1 [cps],     2.341
+Run10: Coincidence BC_N1 [counts], 1632
+Run10: Coincidence BC_N1 [cps],     2.312
+Run10: Coincidence AC_N1 [counts], 1589
+Run10: Coincidence AC_N1 [cps],     2.251
+Run10: Coincidence D_N1 [counts], 2052
+Run10: Coincidence D_N1 [cps],     2.907
+Run10: Coincidence T_N1 [counts], 1411
+Run10: Coincidence T_N1 [cps],     1.999
+
+Run10: Coincidence AB_M1 [counts], 1718
+Run10: Coincidence AB_M1 [cps],     2.433
+Run10: Coincidence BC_M1 [counts], 1703
+Run10: Coincidence BC_M1 [cps],     2.412
+Run10: Coincidence AC_M1 [counts], 1658
+Run10: Coincidence AC_M1 [cps],     2.348
+Run10: Coincidence D_M1 [counts], 2107
+Run10: Coincidence D_M1 [cps],     2.984
+Run10: Coincidence T_M1 [counts], 1486
+Run10: Coincidence T_M1 [cps],     2.105
+
+Run10: Live Time AB Ext2 [s],   717.152
+Run10: Live Time BC Ext2 [s],   717.152
+Run10: Live Time AC Ext2 [s],   717.152
+Run10: Live Time T Ext2 [s],   717.152
+
+Run10: Coincidence AB_N2 [counts], 1705
+Run10: Coincidence AB_N2 [cps],     2.377
+Run10: Coincidence BC_N2 [counts], 1683
+Run10: Coincidence BC_N2 [cps],     2.347
+Run10: Coincidence AC_N2 [counts], 1635
+Run10: Coincidence AC_N2 [cps],     2.280
+Run10: Coincidence D_N2 [counts], 2117
+Run10: Coincidence D_N2 [cps],     2.952
+Run10: Coincidence T_N2 [counts], 1453
+Run10: Coincidence T_N2 [cps],     2.026
+
+Run10: Coincidence AB_M2 [counts], 1770
+Run10: Coincidence AB_M2 [cps],     2.468
+Run10: Coincidence BC_M2 [counts], 1755
+Run10: Coincidence BC_M2 [cps],     2.447
+Run10: Coincidence AC_M2 [counts], 1705
+Run10: Coincidence AC_M2 [cps],     2.377
+Run10: Coincidence D_M2 [counts], 2174
+Run10: Coincidence D_M2 [cps],     3.031
+Run10: Coincidence T_M2 [counts], 1528
+Run10: Coincidence T_M2 [cps],     2.131
+
